@@ -1,0 +1,7 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local backup copies (not part of the codebase)
+*.bak
+*bak_*
